@@ -33,9 +33,9 @@ def calculate(file_name):
 
 if __name__ == '__main__':
     print("test set")
-    calculate("1_test.txt")
+    calculate("input/1_test.txt")
 
     print()
 
     print("real set")
-    calculate("1.txt")
+    calculate("input/1.txt")

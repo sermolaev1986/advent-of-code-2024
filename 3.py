@@ -33,22 +33,22 @@ if __name__ == '__main__':
     print("task 1")
 
     print("test set")
-    task1("3_test.txt")
+    task1("input/3_test.txt")
 
     print()
 
     print("real set")
 
     print()
-    task1("3.txt")
+    task1("input/3.txt")
     print()
 
     print("task 2")
 
     print("test set")
-    task2("3_test.txt")
+    task2("input/3_test.txt")
 
     print()
 
     print("real set")
-    task2("3.txt")
+    task2("input/3.txt")

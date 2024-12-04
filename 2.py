@@ -54,9 +54,9 @@ def calculate(file_name):
 
 if __name__ == '__main__':
     print("test set")
-    calculate("2_test.txt")
+    calculate("input/2_test.txt")
 
     print()
 
     print("real set")
-    calculate("2.txt")
+    calculate("input/2.txt")

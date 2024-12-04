@@ -103,19 +103,19 @@ if __name__ == '__main__':
     print("-----TASK 1-------")
 
     print("test set")
-    task1("4_test.txt")
+    task1("input/4_test.txt")
 
     print()
 
     print("real set")
-    task1("4.txt")
+    task1("input/4.txt")
 
     print("-----TASK 2-------")
 
     print("test set")
-    task2("4_test.txt")
+    task2("input/4_test.txt")
 
     print()
 
     print("real set")
-    task2("4.txt")
+    task2("input/4.txt")
